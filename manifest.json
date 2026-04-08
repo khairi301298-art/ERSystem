@@ -1,7 +1,8 @@
 {
   "name": "Event Registration System",
   "short_name": "Event App",
-  "start_url": "https://event-register-system-mcr4qeljuzolsuf33xkhck.streamlit.app/",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#667eea",
